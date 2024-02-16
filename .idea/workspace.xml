@@ -4,48 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="293e8732-e735-4a73-a22a-5d6acd60f89b" name="Changes" comment="" />
+    <list default="true" id="293e8732-e735-4a73-a22a-5d6acd60f89b" name="Changes" comment="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cRbuWetOi38pJbzaysVdMR0pBN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Anton/IdeaProjects/CarInsuranceService/ru.projectinsurance/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/TEAMINS-0001&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Anton/IdeaProjects/CarInsuranceService/ru.projectinsurance/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -76,12 +83,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708077560532</updated>
-      <workItem from="1708077561695" duration="1328000" />
+      <workItem from="1708077561695" duration="1844000" />
+      <workItem from="1708080571864" duration="88000" />
     </task>
+    <task id="LOCAL-00001" summary="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;">
+      <option name="closed" value="true" />
+      <created>1708079191601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708079191601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -113,6 +145,30 @@
               <option name="responseFileName" value="" />
               <option name="responseFilePath" value="" />
               <option name="responseTms" value="1708078796634" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="46efc3">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
+                </list>
+              </option>
+              <option name="id" value="46efc3" />
+              <option name="initiateTms" value="1708079322953" />
+              <option name="request" value="вопрос , я залил на гит пустой проект , просто создал там папки , почему я не вижду этих папок" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Если вы только что создали пустой проект и загрузили его на Git, но не видите папки в репозитории Git, возможно, вы не добавили эти папки в индекс Git перед выполнением коммита.&#10;&#10;Git не отслеживает автоматически все файлы и папки в вашем проекте. Вам нужно явно добавить файлы и папки в индекс Git, чтобы они были отслеживаемыми и включены в коммит.&#10;&#10;Чтобы добавить папки в индекс Git, выполните следующие шаги:&#10;&#10;1. Откройте командную строку или терминал и перейдите в корневую папку вашего проекта.&#10;&#10;2. Выполните команду `git add &lt;путь к папке&gt;`, чтобы добавить папку в индекс Git. Например, если ваша папка называется &quot;src&quot;, выполните команду `git add src`.&#10;&#10;3. После выполнения команды `git add`, папка будет добавлена в индекс Git.&#10;&#10;4. Затем выполните команду `git commit -m &quot;Добавление папки src&quot;`, чтобы создать коммит с сообщением о добавлении папки. Замените &quot;Добавление папки src&quot; на свое собственное сообщение коммита.&#10;&#10;5. Наконец, выполните команду `git push`, чтобы загрузить коммиты на удаленный репозиторий Git.&#10;&#10;После выполнения этих шагов папка должна быть видна в вашем репозитории Git. Убедитесь, что вы выполнили команды `git add`, `git commit` и `git push` для всех папок, которые вы хотите добавить в репозиторий Git." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708079328837" />
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
