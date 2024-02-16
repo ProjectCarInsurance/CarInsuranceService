@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="293e8732-e735-4a73-a22a-5d6acd60f89b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cRbuWetOi38pJbzaysVdMR0pBN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Anton/IdeaProjects/CarInsuranceService/ru.projectinsurance/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ru.projectinsurance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-graalvm-jdk-17.0.10-f644763e9732-88d20998" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293e8732-e735-4a73-a22a-5d6acd60f89b" name="Changes" comment="" />
+      <created>1708077560532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708077560532</updated>
+      <workItem from="1708077561695" duration="1328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="1971db">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
+                </list>
+              </option>
+              <option name="id" value="1971db" />
+              <option name="initiateTms" value="1708078791448" />
+              <option name="request" value="java: error: release version 21 not supported что это" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Ошибка &quot;release version 21 not supported&quot; означает, что указанная версия Java не поддерживается в вашей среде разработки или на вашей системе. &#10;&#10;Версия Java обычно указывается с помощью параметра `-source` при компиляции или с помощью переменной окружения `JAVA_HOME`. В данном случае, вероятно, используется версия Java 21, которая не является стандартной версией и, возможно, не поддерживается вашей средой разработки или установленной версией Java.&#10;&#10;Чтобы исправить эту ошибку, вам нужно изменить версию Java на поддерживаемую. Вам следует проверить, какая версия Java установлена на вашей системе и установить подходящую версию для вашей среды разработки.&#10;&#10;Если вы используете IntelliJ IDEA, вы можете изменить версию Java, выбрав правильный SDK (Software Development Kit) в настройках проекта. Вы можете открыть настройки проекта, перейти в раздел &quot;Project Settings&quot; или &quot;Project Structure&quot;, затем выбрать &quot;SDKs&quot; или &quot;Project SDK&quot; и выбрать подходящую версию Java.&#10;&#10;Если вы используете другую среду разработки, вам следует обратиться к документации или сообществу этой среды разработки для получения инструкций по изменению версии Java.&#10;&#10;Если у вас нет подходящей версии Java, вам нужно установить ее. Вы можете загрузить и установить последнюю версию Java с официального веб-сайта Java (https://www.java.com) или использовать менеджер пакетов вашей операционной системы для установки Java.&#10;&#10;После изменения или установки подходящей версии Java, вы должны перекомпилировать и запустить ваш код, и ошибка &quot;release version 21 not supported&quot; больше не должна возникать." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708078796634" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="5b627a">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
+                </list>
+              </option>
+              <option name="id" value="5b627a" />
+              <option name="initiateTms" value="1708078855263" />
+              <option name="request" value="а если у меня вообще ничего не добавлено в переменнные среды" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Если у вас не добавлены переменные среды для Java, вам нужно установить Java Development Kit (JDK) и добавить переменные среды вручную. Вот как это сделать:&#10;&#10;1. Загрузите и установите JDK с официального веб-сайта Java (https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). Выберите версию JDK, которая соответствует вашей операционной системе.&#10;&#10;2. После установки JDK откройте &quot;Панель управления&quot; на вашей операционной системе и найдите &quot;Система&quot; или &quot;Системные настройки&quot;.&#10;&#10;3. В &quot;Системных настройках&quot; найдите раздел &quot;Дополнительные параметры системы&quot; или &quot;Дополнительные параметры&quot;.&#10;&#10;4. В открывшемся окне выберите вкладку &quot;Переменные среды&quot;.&#10;&#10;5. В разделе &quot;Системные переменные&quot; нажмите кнопку &quot;Создать&quot;.&#10;&#10;6. Введите имя переменной среды &quot;JAVA_HOME&quot; и укажите путь к установленной папке JDK. Например, &quot;C:\Program Files\Java\jdk-11.0.12&quot;.&#10;&#10;7. Нажмите &quot;ОК&quot;, чтобы сохранить переменную среды.&#10;&#10;8. В разделе &quot;Системные переменные&quot; найдите переменную среды &quot;Path&quot; и выберите ее. Нажмите кнопку &quot;Изменить&quot;.&#10;&#10;9. В открывшемся окне нажмите кнопку &quot;Новый&quot; и введите &quot;%JAVA_HOME%\bin&quot;. Нажмите &quot;ОК&quot;, чтобы сохранить изменения.&#10;&#10;10. Закройте все окна настроек и перезапустите вашу среду разработки или командную строку.&#10;&#10;После выполнения этих шагов переменные среды для Java будут настроены, и ваша среда разработки сможет использовать установленную версию JDK. Теперь вы можете компилировать и запускать ваш код Java без ошибки &quot;release version 21 not supported&quot;." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708078860750" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/ru.projectinsurance/src/Main.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
