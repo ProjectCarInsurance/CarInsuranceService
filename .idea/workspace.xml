@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="293e8732-e735-4a73-a22a-5d6acd60f89b" name="Changes" comment="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;">
+    <list default="true" id="293e8732-e735-4a73-a22a-5d6acd60f89b" name="Changes" comment="добавил саморасширяющийся массив&#10;прописал сущность &quot;car&quot; (не до конца, возникли вопросы)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature/TEAMINS-005" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,27 +32,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/TEAMINS-0001&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Anton/IdeaProjects/CarInsuranceService/ru.projectinsurance/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "добавление__сущности__Car",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Егор/IdeaProjects/CarInsuranceService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Anton/IdeaProjects/CarInsuranceService/ru.projectinsurance/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -64,14 +65,15 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-graalvm-jdk-17.0.10-f644763e9732-88d20998" />
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-17.0.10-graalvm-jdk-17.0.10-4caba194b151-6d8b2ca1" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +87,7 @@
       <updated>1708077560532</updated>
       <workItem from="1708077561695" duration="1844000" />
       <workItem from="1708080571864" duration="88000" />
+      <workItem from="1708112310634" duration="731000" />
     </task>
     <task id="LOCAL-00001" summary="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;">
       <option name="closed" value="true" />
@@ -94,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708079191601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="добавил саморасширяющийся массив&#10;прописал сущность &quot;car&quot; (не до конца, возникли вопросы)">
+      <option name="closed" value="true" />
+      <created>1708111174319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708111174319</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +116,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="добавление_сущности_Car" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -113,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="TEAMINS -001 &quot;Добавление структуры папок для проекта&quot;" />
+    <MESSAGE value="добавил саморасширяющийся массив&#10;прописал сущность &quot;car&quot; (не до конца, возникли вопросы)" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил саморасширяющийся массив&#10;прописал сущность &quot;car&quot; (не до конца, возникли вопросы)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

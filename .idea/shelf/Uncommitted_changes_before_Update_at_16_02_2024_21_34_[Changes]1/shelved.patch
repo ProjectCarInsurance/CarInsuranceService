@@ -1,0 +1,47 @@
+Index: ru.projectinsurance/src/tasks.text
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>1. TEAMINS-001 \"Добавление структуры папок в проект\"\r\n2. TEAMINS-002 \"Добавление базовых классов в проект\"\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ru.projectinsurance/src/tasks.text b/ru.projectinsurance/src/tasks.text
+--- a/ru.projectinsurance/src/tasks.text	
++++ b/ru.projectinsurance/src/tasks.text	
+@@ -1,2 +1,3 @@
+ 1. TEAMINS-001 "Добавление структуры папок в проект"
+ 2. TEAMINS-002 "Добавление базовых классов в проект"
++3. TEAMINS-003 "Добавление сущности "Car" "
+\ No newline at end of file
+Index: ru.projectinsurance/src/entity/Car.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package entity;\r\n\r\npublic class Car {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ru.projectinsurance/src/entity/Car.java b/ru.projectinsurance/src/entity/Car.java
+--- a/ru.projectinsurance/src/entity/Car.java	
++++ b/ru.projectinsurance/src/entity/Car.java	
+@@ -1,4 +1,5 @@
+ package entity;
+ 
+ public class Car {
++
+ }
+Index: ru.projectinsurance/src/service/AdvanceArrayService.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package service;\r\n\r\npublic class AdvanceArrayService {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ru.projectinsurance/src/service/AdvanceArrayService.java b/ru.projectinsurance/src/service/AdvanceArrayService.java
+--- a/ru.projectinsurance/src/service/AdvanceArrayService.java	
++++ b/ru.projectinsurance/src/service/AdvanceArrayService.java	
+@@ -1,4 +1,5 @@
+ package service;
+ 
+ public class AdvanceArrayService {
++
+ }
